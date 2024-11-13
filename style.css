@@ -1,0 +1,90 @@
+.logo,
+.links,
+.earthlogo {
+    float: left;
+    margin-top: 20px;
+}
+
+.manubar {
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    background-color: white;
+}
+
+.links>ul>li {
+    display: inline-block;
+    margin: 20px 30px 20px 20px;
+    font-size: 18px;
+
+}
+
+a {
+    color: #2B0060;
+    text-decoration: none;
+}
+a:hover{
+    color: aqua;
+    text-decoration: underline;
+}
+
+.logo {
+    margin-right: 50px;
+    margin-left: 30px;
+}
+
+.earthlogo {
+    margin-top: 40px;
+    margin-left: 150px;
+}
+
+iframe {
+    border-radius: 10px;
+}
+
+.paragrap{
+    margin: 20px 357px;
+    font-size: 25px;
+    text-align: center;
+}
+.formfill{
+    margin-left: 370px;
+}
+input,select,textarea{
+    height: 38px;
+    width: 550px;
+    font-size: 20px;
+    margin: 15px;
+}
+#submit{
+    background-color: #2B0060;
+    color: white;
+    border-radius: 5px;
+}
+.endmanu{
+    height: 60px;
+    background-color: #2B0060;
+    color: white;
+    border-radius: 4px;
+}
+.wipro2024{
+    display: inline-block;
+    margin-left: 30px;
+    font-size: 22px;
+}
+.endlink{
+    display: inline;
+    margin-left: 380px;
+}
+.endlink >a{
+    color: white;
+    margin: 20px;
+    font-size: 20px;
+}
+.firstvd{
+    margin-top: 120px;
+}
+.firstvd > fieldset{
+    border-radius: 10px;
+}
